@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6965dd37-d670-4a83-8da5-7b10137ac589" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HLfebXTd3qv3VnhaWxRXsvz0hY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ninjo\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build-css" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-css" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build-css" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6965dd37-d670-4a83-8da5-7b10137ac589" name="Default Changelist" comment="" />
+      <created>1668069380924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668069380924</updated>
+      <workItem from="1668069382304" duration="1128000" />
+      <workItem from="1668072840052" duration="601000" />
+      <workItem from="1668078643530" duration="593000" />
+      <workItem from="1668080104443" duration="1762000" />
+      <workItem from="1668141834682" duration="4538000" />
+      <workItem from="1668146664477" duration="1360000" />
+      <workItem from="1668149209108" duration="32000" />
+      <workItem from="1668162593192" duration="495000" />
+      <workItem from="1668169615342" duration="19000" />
+      <workItem from="1668169705919" duration="37000" />
+      <workItem from="1668173038260" duration="10000" />
+      <workItem from="1668496165526" duration="2739000" />
+      <workItem from="1668498935662" duration="3409000" />
+      <workItem from="1668523960216" duration="1719000" />
+      <workItem from="1668537590145" duration="1296000" />
+      <workItem from="1668612939755" duration="616000" />
+      <workItem from="1668614724648" duration="2390000" />
+      <workItem from="1668660284764" duration="8000" />
+      <workItem from="1668675032341" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668145537896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1668145537896" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1668660291902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1668660291902" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1668079241394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1668079241394" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1668079241394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1668079241394" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1668079241394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1668079241394" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1668079241394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1668079241394" />
+    <state x="0" y="57" key="SettingsEditor" timestamp="1668070195598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1668070195598" />
+    <state x="0" y="0" width="957" height="803" key="dock-window-1" timestamp="1668146411859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="957" height="803" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1668146411859" />
+  </component>
+</project>
